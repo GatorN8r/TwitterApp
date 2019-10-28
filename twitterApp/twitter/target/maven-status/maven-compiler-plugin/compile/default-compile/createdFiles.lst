@@ -1,0 +1,6 @@
+com/twitter/app/TwitterController.class
+com/twitter/app/TwitterEJBImpl.class
+com/twitter/app/TwitterEJB.class
+com/twitter/app/RestConfig.class
+com/twitter/entities/TweetEntity.class
+com/twitter/app/TwitterConfig.class
